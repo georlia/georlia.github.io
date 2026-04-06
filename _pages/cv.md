@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Informatics and Telecommunications, University of Ioannina, 2026 (expected)
+* BSc in Informatics and Telecommunications, University of Ioannina, 2026 (expected)
 
 Skills
 ======

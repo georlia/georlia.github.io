@@ -23,7 +23,7 @@ repository               : "georlia/georlia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.png"
+  avatar           : "photo.png"
   name             : "Georlia Sgouraki"
   pronouns         : # example: "she/her"  
   bio              : "IT Student | Aspiring Junior Data Analyst"

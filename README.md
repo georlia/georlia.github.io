@@ -1,1 +1,0 @@
-# georlia.github.io

@@ -30,3 +30,5 @@ The illustrations in `images/` (graduation cap graphic, pet shop scene, medical/
 - Swap the `#` placeholder links on "View Project" buttons to your real project links.
 - Update the LinkedIn, email, and GitHub links in the footer.
 - Add a real `resume.pdf` to the repo and point the "Resume" button on the about page to it.
+
+  <img src="images/woman.png" alt="Illustration of Georlia working at a laptop surrounded by data and code elements">

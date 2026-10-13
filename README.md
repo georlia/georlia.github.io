@@ -1,1 +1,1 @@
-![images/favicon.png](images/favicon.png)
+<img src="images/favicon.png" alt="favicon" width="500" />
